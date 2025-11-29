@@ -2,12 +2,11 @@
 
 <img align="right" src="https://camo.githubusercontent.com/e57e0055b4687ec058cefc0ae09edac4926ad06321dd1ac4eb54898142d158aa/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966" width="260" />
 
-I'm a first-year Computer Programming student at Istanbul Gelişim University. I'm constantly improving my skills in C and Java and aim to do so further. I'm particularly motivated in problem-solving, analytical thinking, and adapting to new technologies.
+I am a first-year student in the Computer Programming department at Istanbul Gelişim University. From the initial stage of my studies, I have focused on building a solid technical foundation through active practice in C and Java languages. My strongest assets include my problem-solving skills, analytical thinking ability, and high motivation to quickly adapt to new technologies.
 
-During high school, I participated in the Erasmus+ project, a joint effort between Germany, Austria, and Turkey, and gained a student experience. This experience gave me the opportunity to work with different cultures, integrate with teams, and gain an international perspective.
+I am a developer candidate with international experience and a strong aptitude for teamwork. Through the Erasmus+ project I participated in during high school (a partnership between Germany, Austria, and Turkey), I gained the opportunity to collaborate with different cultures and develop a global perspective. I support my technical development with my active efforts to improve my English language skills.
 
-I'm also working to improve my English every day and continue to invest in myself academically and professionally.
-My goal is to specialize in software development and become a software developer who creates value both individually and through teamwork.
+My goal is to specialize in the field of software development and become a software developer who creates value, both through individual contributions and as a strong team player.
 
 <br>
 
