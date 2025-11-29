@@ -1,18 +1,19 @@
 ## Hi 👋, I'm Muhammed Ali Geleş
 
-<p>
-     I'm a first-year Computer Programming student at Istanbul Gelişim University. I'm constantly improving my skills in C and Java and aim to do so further. I'm particularly motivated in problem-solving, analytical thinking, and adapting to new technologies.
+<img align="right" src="https://camo.githubusercontent.com/e57e0055b4687ec058cefc0ae09edac4926ad06321dd1ac4eb54898142d158aa/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966" width="260" />
 
-During high school, I participated in the Erasmus+ project, a joint effort between Germany, Austria, and Turkey, and gained a student experience. This experience gave me the opportunity to work with different cultures, integrate with teams, and gain an international perspective.
+I am a Computer Programming student who is passionate about improving myself in the world of software development.  
+I actively work with C and Java, continuously expanding my knowledge and strengthening my analytical and problem-solving abilities.  
 
-I'm also working to improve my English every day and continue to invest in myself academically and professionally.
+Through the Erasmus+ program, I had the opportunity to collaborate with students from different countries,  
+which helped me gain an international perspective and develop teamwork and communication skills.  
 
-My goal is to specialize in software development and become a software developer who creates value both individually and through teamwork.
-    </p>
-  </div>
+I am currently focusing on improving my English and advancing both academically and professionally.  
+My goal is to become a software developer who creates value through innovation, teamwork,  
+and continuous learning.  
 
-  <img src="https://camo.githubusercontent.com/e57e0055b4687ec058cefc0ae09edac4926ad06321dd1ac4eb54898142d158aa/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966" alt="Coding GIF" width="200"/>
-</div>
+<br>
+
 
 ### Connect with me:
 <p align="left">
