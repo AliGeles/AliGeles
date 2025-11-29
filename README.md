@@ -19,8 +19,8 @@ My goal is to specialize in software development and become a software developer
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="40" height="40" />
 </a>
 
-<a href="https://x.com/aligeles_" target="_blank">
-  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white" />
+<a href="https://x.com/aligeles_" target="_blank" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg" width="40" />
 </a>
 <!--
 **AliGeles/AliGeles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
