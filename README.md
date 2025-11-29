@@ -12,15 +12,15 @@ My goal is to specialize in software development and become a software developer
 
 ### Connect with me:
 <a href="https://www.instagram.com/aligeles_/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="40" height="40" />
 </a>
 
 <a href="https://www.linkedin.com/in/muhammed-ali-gele%C5%9F-b74ba9380/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="40" height="40" />
 </a>
 
-<a href="https://x.com/aligeles_" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg" width="40" />
+<a href="https://x.com/aligeles_" target="_blank" target="_blank">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/x.svg" width="40" height="40" />
 </a>
 ---
 <!--
