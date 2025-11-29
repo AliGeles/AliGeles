@@ -4,7 +4,7 @@
 
 I am a first-year student in the Computer Programming department at Istanbul Gelişim University. From the initial stage of my studies, I have focused on building a solid technical foundation through active practice in C and Java languages. My strongest assets include my problem-solving skills, analytical thinking ability, and high motivation to quickly adapt to new technologies.
 
-I am a developer candidate with international experience and a strong aptitude for teamwork. Through the Erasmus+ project I participated in during high school (a partnership between Germany, Austria, and Turkey), I gained the opportunity to collaborate with different cultures and develop a global perspective. I support my technical development with my active efforts to improve my English language skills.
+My international experience highlights my strong aptitude for effective teamwork and adaptability. Through the Erasmus+ project I participated in during high school (a partnership between Germany, Austria, and Turkey), I had the valuable opportunity to learn how to integrate into diverse teams, collaborate with different cultures, and develop a global perspective—essential skills for today's software development environment. I further support my development through active efforts to improve my English language skills.
 
 My goal is to specialize in the field of software development and become a software developer who creates value, both through individual contributions and as a strong team player.
 
