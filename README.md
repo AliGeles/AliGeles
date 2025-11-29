@@ -4,33 +4,20 @@
   <img src="https://camo.githubusercontent.com/e57e0055b4687ec058cefc0ae09edac4926ad06321dd1ac4eb54898142d158aa/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966" width="300" />
 </p>
 
-<p align="left"> 
-  <table>
-    <tr>
-      <td width="70%">
-        
-        <h1>Hi 👋, I'm Muhammed Ali Geleş</h1> 
-        
-        I'm a first-year Computer Programming student at Istanbul Gelişim University. I am constantly improving my skills in C and Java and aim to develop them further. I'm particularly motivated in problem-solving, analytical thinking, and adapting to new technologies.
-        <br><br>
-        During high school, I participated in the Erasmus+ project, a joint effort between Germany, Austria, and Turkey, and gained student experience. This experience gave me the opportunity to work with different cultures, integrate with teams, and gain an international perspective.
-        <br><br>
-        I'm also working to improve my English every day and continue to invest in myself academically and professionally. My goal is to specialize in software development and become a software developer who creates value both individually and through teamwork.
-        
-      </td>
-      
-      <td width="30%">
-        <img src="https://raw.githubusercontent.com/abhisheknaiidu/awesome-github-profile-readme/master/gifs/CodingFromHome.gif" width="300" alt="Coding From Home" />
-      </td>
-    </tr>
-  </table>
-</p>
-
-<br>
-<hr>
-
 ## Connect with me:
-## Languages and Tools:
+<p align="left">
+  <a href="https://www.linkedin.com/in/muhammed-ali-gele%C5%9F-b74ba9380/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  
+  <a href="https://x.com/aligeles_">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" />
+  </a>
+  
+  <a href="https://www.instagram.com/aligeles_/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</p>
 <!--
 **AliGeles/AliGeles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
