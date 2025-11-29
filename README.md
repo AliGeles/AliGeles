@@ -4,14 +4,7 @@
   <img src="https://camo.githubusercontent.com/e57e0055b4687ec058cefc0ae09edac4926ad06321dd1ac4eb54898142d158aa/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966" width="300" />
 </p>
 
-<p align="left"> 
-  <table>
-    <tr>
-      <td width="70%">
-        
-        <h1>Hi 👋, I'm Muhammed Ali Geleş</h1> 
-        
-        I'm a first-year Computer Programming student at Istanbul Gelişim University. I am constantly improving my skills in C and Java and aim to develop them further. I'm particularly motivated in problem-solving, analytical thinking, and adapting to new technologies.
+I'm a first-year Computer Programming student at Istanbul Gelişim University. I am constantly improving my skills in C and Java and aim to develop them further. I'm particularly motivated in problem-solving, analytical thinking, and adapting to new technologies.
         <br><br>
         During high school, I participated in the Erasmus+ project, a joint effort between Germany, Austria, and Turkey, and gained student experience. This experience gave me the opportunity to work with different cultures, integrate with teams, and gain an international perspective.
         <br><br>
@@ -19,16 +12,12 @@
         
       </td>
       
-      <td width="30%">
-        <img src="https://raw.githubusercontent.com/abhisheknaiidu/awesome-github-profile-readme/master/gifs/CodingFromHome.gif" width="300" alt="Coding From Home" />
+      <td width="35%" valign="top" align="center"> 
+        <img src="https://raw.githubusercontent.com/abhisheknaiidu/awesome-github-profile-readme/master/gifs/CodingFromHome.gif" width="250" alt="Coding From Home" />
       </td>
     </tr>
   </table>
 </p>
-
-<br>
-
-<hr>
 
 ### Connect with me:
 <p align="left">
