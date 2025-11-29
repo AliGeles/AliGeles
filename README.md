@@ -9,7 +9,7 @@
     <tr>
       <td width="70%">
         
-        <h1>Hi 👋, I'm Muhammed Ali Geleş</h1>
+        <h1>Hi 👋, I'm Muhammed Ali Geleş</h1> 
         
         I'm a first-year Computer Programming student at Istanbul Gelişim University. I am constantly improving my skills in C and Java and aim to develop them further. I'm particularly motivated in problem-solving, analytical thinking, and adapting to new technologies.
         <br><br>
