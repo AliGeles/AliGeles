@@ -9,15 +9,7 @@ I'm a first-year Computer Programming student at Istanbul Gelişim University. I
         During high school, I participated in the Erasmus+ project, a joint effort between Germany, Austria, and Turkey, and gained student experience. This experience gave me the opportunity to work with different cultures, integrate with teams, and gain an international perspective.
         <br><br>
         I'm also working to improve my English every day and continue to invest in myself academically and professionally. My goal is to specialize in software development and become a software developer who creates value both individually and through teamwork.
-        
-      </td>
-      
-      <td width="35%" valign="top" align="center"> 
-        <img src="https://raw.githubusercontent.com/abhisheknaiidu/awesome-github-profile-readme/master/gifs/CodingFromHome.gif" width="250" alt="Coding From Home" />
-      </td>
-    </tr>
-  </table>
-</p>
+
 
 ### Connect with me:
 <p align="left">
