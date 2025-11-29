@@ -11,20 +11,17 @@ My goal is to specialize in software development and become a software developer
 
 
 ### Connect with me:
-<p align="left">
-  <a href="https://www.linkedin.com/in/muhammed-ali-gele%C5%9F-b74ba9380/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  
-  <a href="https://x.com/aligeles_">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" />
-  </a>
-  
-  <a href="https://www.instagram.com/aligeles_/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-</p>
+<a href="https://www.instagram.com/aligeles_/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="40" />
+</a>
 
+<a href="https://www.linkedin.com/in/muhammed-ali-gele%C5%9F-b74ba9380/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" />
+</a>
+
+<a href="https://x.com/aligeles_" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg" width="40" />
+</a>
 ---
 <!--
 **AliGeles/AliGeles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
