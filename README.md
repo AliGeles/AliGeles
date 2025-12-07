@@ -28,7 +28,7 @@ Hedefim, yazılım geliştirme alanında uzmanlaşmak ve hem bireysel katkılar�
 ### Languages and Tools
 
 <p align="left">
-  <img src="https://www.java.com/tr/"/>
+  <img src="https://www.cleanpng.com/png-java-logo-programming-language-java-plum-964780/"/>
   <img src=""/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/>
 </p>
