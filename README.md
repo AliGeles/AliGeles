@@ -28,7 +28,7 @@ Hedefim, yazılım geliştirme alanında uzmanlaşmak ve hem bireysel katkılar�
 ### Languages and Tools
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="28" height="28" alt="Java Logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java Logo"/>
   <img src=""/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/>
 </p>
