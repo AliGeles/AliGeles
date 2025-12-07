@@ -23,6 +23,14 @@ Hedefim, yazılım geliştirme alanında uzmanlaşmak ve hem bireysel katkılar�
 <a href="https://x.com/aligeles_" target="_blank" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg" width="40" />
 </a>
+
+
+### Languages and Tools
+
+<p align="left">
+  <img src="https://www.java.com/tr/" alt="Java Badge"/>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C Badge"/>
+</p>
 <!--
 **AliGeles/AliGeles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
