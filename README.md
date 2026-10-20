@@ -2,7 +2,7 @@
 
 <img align="right" src="https://camo.githubusercontent.com/e57e0055b4687ec058cefc0ae09edac4926ad06321dd1ac4eb54898142d158aa/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966" width="260" />
 
-İstanbul Gelişim Üniversitesi Bilgisayar Programcılığı Bölümü birinci sınıf öğrencisiyim. Öğrenim hayatımın ilk aşamasından itibaren Java ve JavaScript dillerinde aktif pratik yaparak sağlam bir teknik temel oluşturmaya odaklandım.
+İstanbul Aydın Üniversitesi Bilgisayar Programcılığı Bölümü ikinci sınıf öğrencisiyim. Öğrenim hayatımın ilk aşamasından itibaren Java ve JavaScript dillerinde aktif pratik yaparak sağlam bir teknik temel oluşturmaya odaklandım.
 Veri tabanı tarafında Microsoft SQL Server ve PostgreSQL ile çalışabiliyorum.
 
 Problem çözme becerilerim, analitik düşünme yeteneğim ve yeni teknolojilere hızla uyum sağlama konusundaki yüksek motivasyonum en güçlü yönlerim arasında yer alıyor.
